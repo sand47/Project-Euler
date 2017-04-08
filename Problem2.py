@@ -17,12 +17,12 @@ sum=0
 a=1
 b=1
 c=a+b
-while c<limit:   
- sum=sum+c                        # adding every third element
- a=b+c
- b=c+a
- c=a+b
 
+while c<limit:   
+  sum=sum+c                        # adding every third element
+  a=b+c
+  b=c+a
+  c=a+b
 
 print(sum)                        #printing the sum
  
