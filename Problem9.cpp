@@ -1,7 +1,14 @@
-// Problem9.cpp : Defines the entry point for the console application.
-//
+/*
+A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
 
-#include "stdafx.h"
+a2 + b2 = c2
+For example, 32 + 42 = 9 + 16 = 25 = 52.
+
+There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+Find the product abc.
+
+By Sandeep ,2/4/17
+*/
 #include<iostream>
 #include<time.h>
 using namespace std;
