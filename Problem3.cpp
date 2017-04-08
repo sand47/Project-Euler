@@ -1,7 +1,10 @@
-// Problem3.cpp : Defines the entry point for the console application.
-//
+/*
+The prime factors of 13195 are 5, 7, 13 and 29.
 
-#include "stdafx.h"
+What is the largest prime factor of the number 600851475143 ?
+
+By Sandeep , 1/4/17
+*/
 #include <iostream>
 #include <time.h>
 #include <math.h>
